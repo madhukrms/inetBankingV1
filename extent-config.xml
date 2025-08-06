@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+        <!-- Document Title -->
+        <documentTitle>Automation Test Report</documentTitle>
+
+        <!-- Report Name -->
+        <reportName>Functional Test Report</reportName>
+
+        <!-- Theme: standard or dark -->
+        <theme>standard</theme>
+
+        <!-- Encoding and Protocol -->
+        <encoding>utf-8</encoding>
+        <protocol>https</protocol>
+
+        <!-- Timestamp format -->
+        <timeStampFormat>MMM dd, yyyy HH:mm:ss</timeStampFormat>
+
+        <!-- Charts -->
+        <charts>
+            <enable>true</enable>
+            <onStart>true</onStart>
+        </charts>
+
+        <!-- Custom CSS or JavaScript (optional) -->
+        <!--
+        <styles>
+            .test-name { font-weight: bold; }
+        </styles>
+        -->
+
+    </configuration>
+</extentreports>
